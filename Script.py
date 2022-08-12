@@ -28,7 +28,7 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/@Shehjada13>Ⓘⓝⓓⓔⓡ</a>
+- 𝙳𝚎𝚟 1<a href=https://t.me/Shehjada13>Ⓘⓝⓓⓔⓡ</a>
 - 𝙳𝚎𝚟 2<a href=https://t.me/shehjada13>Ⓘⓝⓓⓔⓡ</a>"""
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -44,7 +44,7 @@ class script(object):
 
 <code>/batch https://t.me/Shehjada1 https://t.me/Shehjada1</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/@Sidhu_Moosewala_bot><b>Sidhu Moosewala Botz</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Sidhu_Moosewala_bot><b>Sidhu Moosewala Botz</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
